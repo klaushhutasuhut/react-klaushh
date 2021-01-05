@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-klaushh/static/css/main.9c47a7a0.chunk.css",
+    "main.js": "/react-klaushh/static/js/main.d7a98eff.chunk.js",
+    "main.js.map": "/react-klaushh/static/js/main.d7a98eff.chunk.js.map",
+    "runtime-main.js": "/react-klaushh/static/js/runtime-main.1f16301c.js",
+    "runtime-main.js.map": "/react-klaushh/static/js/runtime-main.1f16301c.js.map",
+    "static/css/2.6c0f60ba.chunk.css": "/react-klaushh/static/css/2.6c0f60ba.chunk.css",
+    "static/js/2.72bce612.chunk.js": "/react-klaushh/static/js/2.72bce612.chunk.js",
+    "static/js/2.72bce612.chunk.js.map": "/react-klaushh/static/js/2.72bce612.chunk.js.map",
+    "static/js/3.887f8243.chunk.js": "/react-klaushh/static/js/3.887f8243.chunk.js",
+    "static/js/3.887f8243.chunk.js.map": "/react-klaushh/static/js/3.887f8243.chunk.js.map",
+    "index.html": "/react-klaushh/index.html",
+    "static/css/2.6c0f60ba.chunk.css.map": "/react-klaushh/static/css/2.6c0f60ba.chunk.css.map",
+    "static/css/main.9c47a7a0.chunk.css.map": "/react-klaushh/static/css/main.9c47a7a0.chunk.css.map",
+    "static/js/2.72bce612.chunk.js.LICENSE.txt": "/react-klaushh/static/js/2.72bce612.chunk.js.LICENSE.txt",
+    "static/media/bg.1f356643.jpg": "/react-klaushh/static/media/bg.1f356643.jpg",
+    "static/media/ionicons.css": "/react-klaushh/static/media/ionicons.b45d332f.svg",
+    "static/media/profile.ad69ced1.jpg": "/react-klaushh/static/media/profile.ad69ced1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f16301c.js",
+    "static/css/2.6c0f60ba.chunk.css",
+    "static/js/2.72bce612.chunk.js",
+    "static/css/main.9c47a7a0.chunk.css",
+    "static/js/main.d7a98eff.chunk.js"
+  ]
+}
